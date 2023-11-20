@@ -1,2 +1,0 @@
-2) Sur le branch master, il existe un fichier qui n'est pas ajoute a notre projet 
-et que auncune commit a ete fais.

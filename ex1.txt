@@ -1,0 +1,15 @@
+2) Sur le branch master, il existe un fichier qui n'est pas ajoute a notre projet 
+et que auncune commit a ete fais.
+
+7) Le projet est mis a jour, il'n ya rien a "commit"
+
+8) git log affiche l'historique des commits avec les details
+
+9) git diff montre les derniers mise a jour sur les document qui n'ont pas ete pris en
+consideration lors du dernier commit 
+
+11) Une repertoire vide  
+
+12) Je trouve le dossier que j'ai cree localement avec le message du commit.
+
+git clone https://github.com/Polytech-Sorbonne-OPI-2023/TP1-EX2

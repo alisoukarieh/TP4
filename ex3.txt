@@ -1,0 +1,21 @@
+1) & 
+
+2) repertoire racine / repertoire de niveau superieur
+
+3) cd
+
+4) cela affichera tous les fichiers et répertoires directement à l'intérieur du répertoire personnel  
+
+5) cp ~/HOME/Documents/TP/TP1/ex2.c ~/HOME/Images/IMG216.jpg
+
+6) Ajouter le chemin du repertoire qui contient a.out dans la variable PATH.
+
+7) 1
+
+8) commande_a_executer 2>/dev/null
+
+9) cette commande cherche à connaître le nombre de processus en cours d'exécution qui ont le mot-clé "evince" 
+
+10) chmod g+r,g+w file1
+
+11) affiche tous les numero avec non
